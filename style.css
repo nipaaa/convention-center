@@ -2,17 +2,16 @@
 @import url('https://fonts.googleapis.com/css2?family=Rubik&display=swap');
 body{
     font-family: 'Rubik', sans-serif;
+    margin: 0 0;
 }
 
-
+/* --------common style--------- */
 .section-gap{
     margin-bottom: 100px;
 }
-
+/* --------carousel part style------- */
 .carousel-item img{
     height: 580px;
-    background-color: black;
-    background-blend-mode: overlay;
     
 }
 .carousel-caption{
